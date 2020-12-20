@@ -11,3 +11,6 @@ pip install git+https://github.com/TakutoYoshikai/miki.git
 ```bash
 miki <OFFICE FILE> <SECRET FILE>
 ```
+
+### License
+MIT License
